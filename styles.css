@@ -1,0 +1,36 @@
+body {
+    background-color: darkcyan;
+}
+
+hr {
+    width: 100vh;
+}
+
+h1 {
+    font-size: 2cm;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    color: whitesmoke;
+    padding: 30px 10px 30px 10px;
+    justify-content: center;
+}
+
+h2 {
+    color: whitesmoke;
+}
+
+.personalize {
+    width: 90vh;
+    background-color: white;
+    display: flex;
+    min-height: 50vh;
+}
+
+.personalize h2 {
+    color: black;
+}
+
+.personalize h3 {
+    display: inline-block;
+    justify-items: center;
+}
